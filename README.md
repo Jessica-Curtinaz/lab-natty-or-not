@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fake Natty: O Olhar da IA na Minha Apresentação Profissional 👁️🤖
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto aplica conceitos de "Fake Natty" para resolver um problema real: o nervosismo ao gravar apresentações profissionais. Utilizei Inteligência Artificial para simular contato visual constante em um vídeo de *Self-Presentation* para uma vaga de Analista de Dados, permitindo que eu lesse meu roteiro sem perder a conexão com a câmera.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **Gemini AI**: Para roteirização e estruturação do pitch, destacando skills de Dados e Design.
+* **NVIDIA Broadcast (Eye Contact)**: A "mágica" do Fake Natty. Esta IA processou meus olhos em tempo real, redirecionando o olhar para a lente da câmera, mesmo quando eu estava lendo o texto na tela.
+* **Loom**: Para gravação e hospedagem do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Roteirização:** Criei um texto estratégico unindo meu background em Matemática/Design com minha transição para Engenharia de Dados.
+2.  **Configuração do Ambiente:** Utilizei uma placa de vídeo RTX 4070 Ti para rodar o **NVIDIA Broadcast**. Ativei a função "Contato Visual" (Eye Contact).
+3.  **Gravação Híbrida:** Coloquei o roteiro no topo da tela (teleprompter). Enquanto eu lia o texto, a IA ajustava a posição das minhas pupilas digitalmente. Isso eliminou o movimento lateral dos olhos típico de leitura, criando uma aparência 100% natural ("Natty").
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um vídeo de 1 minuto e 43 segundos onde apresento minha trajetória com confiança e foco. A tecnologia tornou imperceptível o uso de leitura de apoio, garantindo uma entrega fluida e profissional que seria difícil de alcançar devido à ansiedade de falar em público.
+
+[🔗 Clique aqui para assistir ao meu vídeo no Loom](https://www.loom.com/share/8b48415c9c7641b8a2dd7443e8b83ccf?t=103)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O desafio de criar algo 'natty' com IA me mostrou que essas ferramentas vão muito além da geração de arte ou texto; elas são ferramentas de **acessibilidade e confiança**. A IA não "fingiu" quem eu sou, mas me permitiu entregar a melhor versão da minha apresentação, removendo a barreira do nervosismo. É um "Fake Natty" que potencializa o humano.
